@@ -1,0 +1,2 @@
+find . -print | wc -l
+
